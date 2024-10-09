@@ -63,3 +63,23 @@ To clone this repository to your local machine, run the following command:
 
 ```bash
 git clone https://github.com/username/testing-hospital-website.git
+```
+
+## Setup Instructions
+
+### Setting Up Selenium WebDriver
+
+1. Download the latest Selenium WebDriver for your preferred browser:
+   - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+   - [GeckoDriver](https://github.com/mozilla/geckodriver/releases) for Firefox.
+
+2. Extract the WebDriver to a known directory.
+
+3. Add the WebDriver path to your system's PATH variable for easy access.
+
+### Install Maven Dependencies
+
+Navigate to the project directory and run the following command to install the required dependencies:
+
+```bash
+mvn install
