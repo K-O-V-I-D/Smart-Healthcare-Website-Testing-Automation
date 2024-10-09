@@ -115,3 +115,19 @@ mvn test -Dtest=TestClassName
 
 Open Postman and import the collections from the <code>/postman-collections</code> folder.
 Run the test collection to verify API endpoints.
+
+## UML Diagrams
+
+## UML Diagrams
+
+### Class Diagram
+![Class Diagram](Diagrams/1.png)
+
+### Activity Diagram
+![Activity Diagram](Diagrams/2.png)
+
+### Sequence Diagram
+![Sequence Diagram](Diagrams/3.png)
+
+### ER Diagram
+![ER Diagram](Diagrams/4.png)
