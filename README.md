@@ -83,3 +83,35 @@ Navigate to the project directory and run the following command to install the r
 
 ```bash
 mvn install
+```
+## Set Up Postman for API Testing
+
+1. Install [Postman](https://www.postman.com/downloads/).
+2. Import the provided API collections from the `/postman-collections` directory.
+3. Set up environment variables (if required) for the API tests.
+
+---
+
+## Running Tests
+
+### Running Selenium Tests
+
+Once you have set up the project, you can run the Selenium tests by executing the following Maven command:
+
+```bash
+mvn test
+```
+This will trigger the UI automation tests that verify the hospital’s website functionalities.
+
+## Running JUnit Tests
+
+JUnit tests can be run directly from your IDE or using Maven with the following command:
+
+```bash
+mvn test -Dtest=TestClassName
+```
+
+## Running Postman API Tests
+
+Open Postman and import the collections from the <code>/postman-collections</code> folder.
+Run the test collection to verify API endpoints.
