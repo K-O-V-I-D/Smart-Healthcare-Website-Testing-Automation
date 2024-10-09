@@ -118,8 +118,6 @@ Run the test collection to verify API endpoints.
 
 ## UML Diagrams
 
-## UML Diagrams
-
 ### Class Diagram
 ![Class Diagram](Diagrams/1.png)
 
