@@ -129,5 +129,3 @@ Run the test collection to verify API endpoints.
 
 ### ER Diagram
 ![ER Diagram](Diagrams/4.png)
-
-!@#$%^&*(^%$#@!#$%^&*^%$#@!#$%^&^%$#@$%^&*
